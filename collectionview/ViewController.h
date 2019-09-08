@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+@class  Model;
 @interface ViewController : UIViewController
 
 

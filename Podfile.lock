@@ -1,0 +1,16 @@
+PODS:
+  - MJRefresh (3.2.0)
+
+DEPENDENCIES:
+  - MJRefresh
+
+SPEC REPOS:
+  "git@code.byted.org:iOS_Library/publicthird_source_repo.git":
+    - MJRefresh
+
+SPEC CHECKSUMS:
+  MJRefresh: 4c5748ebaacca2a7a1215512d0d741282a3bae5f
+
+PODFILE CHECKSUM: 6ff75fb9ea20100f0f5d2d23c9a50147724d5603
+
+COCOAPODS: 1.6.1
